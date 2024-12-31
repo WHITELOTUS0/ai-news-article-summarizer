@@ -2,7 +2,7 @@
 
 In today's fast-paced world, it's essential to stay updated with the latest news and information. However, going through multiple news articles can be time-consuming. To help you save time and get a quick overview of the important points, I developed a News Articles Summarizer application using **ChatGPT** and **LangChain**.
 
-The Summarizer also provides summaries in different languages, French being our exemplary case. This showcases the potential of the tool to cater to a diverse, global audience.
+The Summarizer also provides summaries in different languages, French being an exemplary case. This showcases the potential of the tool to cater to a diverse, global audience.
 
 ## Instructions
 

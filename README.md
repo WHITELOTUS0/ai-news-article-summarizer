@@ -12,7 +12,7 @@ You can either run this application locally or in Google Colab (head straight to
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/WHITELOTUS0/news-articles-summarizer.git
+    git clone https://github.com/WHITELOTUS0/ai-news-article-summarizer.git
     ```
 
 2. Create a new environment and activate the virtual environment:

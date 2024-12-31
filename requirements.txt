@@ -1,2 +1,5 @@
 langchain-openai
 langchain-community
+newspaper3k 
+python-dotenv
+lxml_html_clean
